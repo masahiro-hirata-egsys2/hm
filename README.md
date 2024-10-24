@@ -4,3 +4,5 @@
 2. `> docker run -it --rm -v "$(pwd):/app" -w /app -p 3000:3000 node:20 /bin/bash`
 3. `# npm run build`
 4. `# npm run start`
+
+vscodeのDev Containersをインストールする
